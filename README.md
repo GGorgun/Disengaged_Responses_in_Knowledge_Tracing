@@ -1,4 +1,4 @@
-# Disengaged-Responses-in-Konwledge-Tracing
+# Considering Disengaged Responses in Bayesian and Deep Knowledge Tracing
 This repo includes the code of the poster presentation accepted at AIED 2022. 
 
 ### Summary of the study
