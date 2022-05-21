@@ -1,5 +1,5 @@
 # Considering Disengaged Responses in Bayesian and Deep Knowledge Tracing
-This repo includes the code of the poster presentation accepted at AIED 2022. 
+This repo includes the code of the poster presentation accepted to AIED 2022. 
 
 ### Summary of the study
 We analyzed the influence of disengaged responses on the prediction accuracy of the knowledge tracing models (i.e., Bayesian Knowledge Tracing [BKT] and Deep Knowledge Tracing [DKT]). In this study, we created two sets of training and test data based on the data preprocessing stage. First, a baseline training set is created based by removing negative response times and empty skill names. We also created as disengaged-adjusted baseline model by removing disengaged responses in addition to the above preprocessing steps. We trained BKT and DKT and evaluated the model performance using both baseline and disengagement-adjusted models. The disengagement adjusted model outperformed the baseline model. 
